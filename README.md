@@ -24,4 +24,4 @@
 #
 **📊 Stats:**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sveenxx&show_icons=true&theme=tokyonight)](https://github.com/sveenxx/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=QuostyDev&show_icons=true&theme=tokyonight)](https://github.com/QuostyDev/github-readme-stats)
