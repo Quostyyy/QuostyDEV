@@ -6,26 +6,20 @@
 
 **📫 Contact:**
 
-- Discord: Sveen#0001
-- Email: hello@codestation.pl
+- Discord: Quosty#9436
+- Email: quosty@qhx-cape.pl
 - Website: codestation.pl
 
 **⚒ Languages and Tools:**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) 
-![HTML5](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) 
-![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat&logo=sass)
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
-![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) 
+![Java](https://img.shields.io/badge/-Java-black) 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
+![Debian](https://img.shields.io/badge/-Debian-black)
+![IntelliJ IDEA](https://camo.githubusercontent.com/466e545cea90538a0693b364560d65ef778b2ada198be7d2bc700f0bd069b13c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c694a253230696465612d626c61636b3f7374796c653d666c6174266c6f676f3d696e74656c6c696a2d69646561)
 
 #
 **📊 Stats:**
