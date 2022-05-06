@@ -8,7 +8,6 @@
 
 - Discord: Quosty#9436
 - Email: quosty@qhx-cape.pl
-- Website: codestation.pl
 
 **⚒ Languages and Tools:**
 
