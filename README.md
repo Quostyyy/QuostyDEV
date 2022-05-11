@@ -19,8 +19,3 @@
 ![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
 ![Debian](https://img.shields.io/badge/-Debian-black)
 ![IntelliJ IDEA](https://camo.githubusercontent.com/466e545cea90538a0693b364560d65ef778b2ada198be7d2bc700f0bd069b13c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c694a253230696465612d626c61636b3f7374796c653d666c6174266c6f676f3d696e74656c6c696a2d69646561)
-
-#
-**📊 Stats:**
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=QuostyDev&show_icons=true&theme=tokyonight)](https://github.com/QuostyDev/github-readme-stats)
