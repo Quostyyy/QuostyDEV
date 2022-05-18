@@ -1,17 +1,13 @@
 ### Hi, I'm Patryk! 👋
-![](https://komarev.com/ghpvc/?username=QuostyDev&label=PROFILE+VIEWS)
-#
-
-<img align="right" alt="GIF" width="380px" src="https://cdn.discordapp.com/attachments/890351161209655296/906645011309953054/047f404fe571163815c11f0459a677bb.gif" />
+![](https://komarev.com/ghpvc/?username=QuostyDev&style=flat)
 
 **📫 Contact:**
 
-- Discord: Quosty#9436
-- Email: quosty@qhx-cape.pl
+- Discord: Quosty#1317
 
 **⚒ Languages and Tools:**
 
-![Java](https://img.shields.io/badge/-Java-black) 
+![Java](https://img.shields.io/badge/-Java-black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
