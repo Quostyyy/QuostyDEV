@@ -1,5 +1,4 @@
 ### Hi, I'm Patryk! 👋
-![](https://komarev.com/ghpvc/?username=QuostyDev&style=flat)
 
 **📫 Contact:**
 
